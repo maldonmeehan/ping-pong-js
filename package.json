@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "browserfy": "^1.0.0",
-    "browserify": "^13.1.0"
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1"
   }
 }
