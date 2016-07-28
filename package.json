@@ -1,0 +1,22 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "description": "#### _Ping-Pong Converter, July 28, 2016_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maldonmeehan/ping-pong-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maldonmeehan/ping-pong-js/issues"
+  },
+  "homepage": "https://github.com/maldonmeehan/ping-pong-js#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
