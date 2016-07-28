@@ -18,5 +18,9 @@
   "homepage": "https://github.com/maldonmeehan/ping-pong-js#readme",
   "dependencies": {
     "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+    "browserfy": "^1.0.0",
+    "browserify": "^13.1.0"
   }
 }

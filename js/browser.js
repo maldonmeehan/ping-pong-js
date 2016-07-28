@@ -1,3 +1,5 @@
+var pingPong = require('./ping-pong.js').pingPong;
+
 $(document).ready(function(){
   $('#ping-pong').submit(function(event){
     event.preventDefault();
