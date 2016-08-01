@@ -20,6 +20,7 @@
     "prompt": "^1.0.0"
   },
   "devDependencies": {
+    "bower-files": "^3.13.3",
     "browserfy": "^1.0.0",
     "browserify": "^13.1.0",
     "del": "^2.2.1",
