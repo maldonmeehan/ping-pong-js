@@ -1,0 +1,20 @@
+{
+  "name": "ping-pong",
+  "description": "#### _Ping-Pong Converter, July 28, 2016_",
+  "main": "index.js",
+  "authors": [
+    "Maldon <maldonmeehan@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/maldonmeehan/ping-pong-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
