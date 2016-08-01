@@ -14,9 +14,12 @@ This is an Epicodus student project to create a web application that takes a num
 
 ## Setup/Installation Requirements
 
-* Establish an internet connection
-* Open a web browser
-* Download this GitHub Repo
+* Clone this repository:
+* In the command-line run:
+```
+$ npm install
+```
+* Open the Index.html file in a browser window.
 
 ## Known Bugs
 
