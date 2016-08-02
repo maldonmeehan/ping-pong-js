@@ -1,5 +1,4 @@
 var apiKey = require('./../.env').apiKey;
-var apiKey = "http://api.openweathermap.org/data/2.5/weather?q=Portland&appid=d1f2c546eab03534e5613a17122244b8";
 
 $(document).ready(function() {
   $('#weatherLocation').click(function() {

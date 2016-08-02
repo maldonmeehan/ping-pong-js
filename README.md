@@ -19,8 +19,11 @@ This is an Epicodus student project to create a web application that takes a num
 ```
 $ npm install
 ```
-* Open the Index.html file in a browser window.
-* apiKey: d1f2c546eab03534e5613a17122244b8
+* In the command-line run (to open the Index.html file in a hosted browser window.):
+```
+$ gulp serve
+```
+* apiKey: 117966566926ead4aa7b5e367300da05
 
 ## Known Bugs
 
