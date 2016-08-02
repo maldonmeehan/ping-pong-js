@@ -20,6 +20,7 @@ This is an Epicodus student project to create a web application that takes a num
 $ npm install
 ```
 * Open the Index.html file in a browser window.
+* apiKey: d1f2c546eab03534e5613a17122244b8
 
 ## Known Bugs
 
